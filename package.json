@@ -20,7 +20,6 @@
     "postcss": "^8.4.38",
     "postcss-discard-comments": "^7.0.1",
     "postcss-import": "^16.1.0",
-    "postcss-normalize": "^10.0.1",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-circular-progressbar": "^2.1.0",
@@ -47,6 +46,7 @@
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "postcss-normalize": "^10.0.1",
     "unimported": "^1.31.1",
     "vite": "^5.0.8"
   }
