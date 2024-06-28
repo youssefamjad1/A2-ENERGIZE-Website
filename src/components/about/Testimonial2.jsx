@@ -15,7 +15,7 @@ const testimonialData = [
     text: "A2 Energize apporte une très grande valeure ajoutée au domaine des énergises solaires au Maroc",
   },
   {
-    company: "MAZAGAN",
+    company: "SOTHERMA",
     position: "El jadida",
     background: "#F27AFF",
     text: "une équipe jeune d'experts talentueux dans le domaine",

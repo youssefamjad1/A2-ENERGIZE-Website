@@ -34,18 +34,7 @@ const ProjectGallery = () => {
           >
             Particuliers
           </li>
-          {/*<li
-            className={filter === "design" ? "is-checked" : ""}
-            onClick={() => setFilter("design")}
-          >
-            Design
-          </li>
-          <li
-            className={filter === "dev" ? "is-checked" : ""}
-            onClick={() => setFilter("dev")}
-          >
-            Development
-          </li>*/}
+          
         </ul>
         <div className="row pt-90 lg-pt-50">
           <Gallery>
@@ -60,7 +49,7 @@ const ProjectGallery = () => {
                   </div>
                   <div className="meta-data tran3s d-flex align-items-center justify-content-between">
                     <Link
-                      to={`/portfolio/${item.id}`}
+                      to={`/service-details`}
                       className="title tran3s d-flex flex-column"
                     >
                       <span className="pj-name tran3s fw-500">{item.name}</span>

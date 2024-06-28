@@ -76,7 +76,7 @@ const IntroAbout = () => {
             {/* /.card */}
           </div>
         </div>
-        {/* End .col-xl-7 */}
+        {/* */}
       </div>
     </>
   );

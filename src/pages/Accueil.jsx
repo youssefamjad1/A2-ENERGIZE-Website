@@ -120,10 +120,10 @@ const Accueil = () => {
                   </h2>
                 </div>
                 <WhyChoose/>
-                {/* /.accordion-style-five */}
+                {/* /. */}
               </div>
             </div>
-            {/* End .col-6 */}
+            {/* End .*/}
 
             <div className="col-xxl-5 col-lg-6 order-lg-first">
               <Block/>
@@ -132,7 +132,7 @@ const Accueil = () => {
         </div>
         {/* /.container */}
       </div>
-      {/* /.fancy-feature-thirtySeven */}
+      {/* /.*/}
       {/*=====================================================
 				Testimonial section
 			=====================================================
@@ -172,7 +172,7 @@ const Accueil = () => {
                   <div className="col-lg-6 ms-auto order-lg-last">
                     <div className="text-wrapper">
                       <img
-                        src="/images/icon/icon_12.svg"
+                        src="/images/icon/icon_02.svg"
                         alt="icon"
                         className="lazy-img mb-30"
                       />

@@ -27,14 +27,14 @@ const ReferencesPage = () => {
       <Seo pageTitle="Refernces" />
       {/* <!-- 
       =============================================
-      Theme Default Menu
+      
       ============================================== 	
       --> */}
       <DefaulHeader />
 
       {/* 
 			=============================================
-			Feature Section Fifty One
+			
 			============================================== 
 			*/}
       <div className="fancy-feature-fiftyOne position-relative mt-250 lg-mt-200">
@@ -100,27 +100,10 @@ const ReferencesPage = () => {
                   </article>
                   {/* /.blog-details-content */}
                   {/*}
-                  <div className="blog-comment-area">
-                    <h3 className="blog-inner-title tx-dark pb-15">
-                      2 Comments
-                    </h3>
-                    <SingleComments />
-                  </div>
+                 
                   {/* /.blog-comment-area */}
                  {/*
-                  <div className="blog-comment-form">
-                    <h3 className="blog-inner-title tx-dark">
-                      Leave A Comment
-                    </h3>
-                    <p>
-                      <Link to="/login" className="text-decoration-underline">
-                        Sign
-                      </Link>
-                      in to post your comment or signup if you dont have any
-                      account.
-                    </p>
-                    <CommentBox />
-                  </div>
+                  
                   {/* /.blog-comment-form */}
                 </div>
               </div>
@@ -134,10 +117,10 @@ const ReferencesPage = () => {
                     <h4 className="sidebar-title">Projets Récents</h4>
                     <RecentPost/>
                   </div>
-                  {/* /.sidebar-recent-news ltaht banner post component */}
+                  {/* / */}
 
                   
-                  {/* /.sidebar-banner-add */}
+                  {/* */}
                 </div>
                 {/* /.blog-sidebar */}
               </div>
@@ -148,7 +131,7 @@ const ReferencesPage = () => {
 
       {/* 
         =============================================
-        Contact Section One
+        FOOTER SECTION
         ============================================== 
         */}
       <div className="footer-style-nine theme-basic-footer zn2 position-relative">

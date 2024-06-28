@@ -23,7 +23,7 @@ const Feature = () => {
       ),
       width: "202",
       height: "170",
-      description: "Claim Support",
+      description: "Support",
       icon: "images/icon/icon_02.svg",
       delay: "200",
     },

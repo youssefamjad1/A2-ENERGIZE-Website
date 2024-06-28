@@ -265,7 +265,7 @@ const MainMenu = () => {
               to="/contact/contact-v1"
               className="btn-twentyOne fw-500 tran3s"
             >
-              Contact us
+              Contacter nous
             </Link>
           </div>
         </div>

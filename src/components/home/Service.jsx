@@ -47,7 +47,7 @@ const Service = () => {
               <i className="bi bi-arrow-right" />
             </Link>
           </div>{" "}
-          {/* /.card-style-sixteen */}
+          {/* /.card-style */}
         </div>
       ))}
     </>
