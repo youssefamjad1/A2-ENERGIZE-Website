@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "uncss": "uncss ./dist/**/*.html -o ./dist/css/tidy.css"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
@@ -15,6 +16,7 @@
     "bootstrap": "^5.2.3",
     "caniuse-lite": "^1.0.30001580",
     "carousel": "^0.0.3",
+    "cssstats": "^4.0.5",
     "emailjs-com": "^3.2.0",
     "photoswipe": "^5.4.3",
     "postcss": "^8.4.38",
@@ -47,6 +49,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
     "postcss-normalize": "^10.0.1",
+    "uncss": "^0.17.3",
     "unimported": "^1.31.1",
     "vite": "^5.0.8"
   }
