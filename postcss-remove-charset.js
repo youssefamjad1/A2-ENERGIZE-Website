@@ -1,12 +1,11 @@
 module.exports = () => {
-    return {
-      postcssPlugin: 'postcss-remove-charset',
-      AtRule: {
-        charset: (atRule) => {
-          atRule.remove();
-        }
+  return {
+    postcssPlugin: 'postcss-remove-charset',
+    AtRule: {
+      charset: (atRule) => {
+        atRule.remove();
       }
-    };
+    }
   };
-  module.exports.postcss = true;
-  
+};
+module.exports.postcss = true;
