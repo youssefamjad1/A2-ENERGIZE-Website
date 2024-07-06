@@ -5,7 +5,6 @@ const Social = () => {
     { icon: "fab fa-twitter", link: "#" },
     { icon: "fab fa-linkedin-in", link: "#" },
     { icon: "fab fa-pinterest", link: "#" },
-    { icon: "fab fa-dribbble", link: "#" },
   ];
 
   return (

@@ -189,7 +189,7 @@ const MainMenu = () => {
               ))}
             </ul>
           </li>
-          {/* End li (portfolio) */}
+          {/* End li  */}
 
           <li className="nav-item dropdown">
             <a
@@ -262,7 +262,7 @@ const MainMenu = () => {
         <div className="mobile-content d-block d-lg-none">
           <div className="d-flex flex-column align-items-center justify-content-center mt-70">
             <Link
-              to="/contact/contact-v1"
+              to="/contact"
               className="btn-twentyOne fw-500 tran3s"
             >
               Contacter nous

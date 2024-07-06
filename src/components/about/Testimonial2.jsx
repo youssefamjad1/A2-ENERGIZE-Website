@@ -82,9 +82,7 @@ const Testimonial2 = () => {
                   {testimonial.text}
                 </p>
                 <div className="d-flex align-items-center justify-content-between">
-                  <div className="fw-500 tx-dark fs-18">
-                    Qulaity &amp; Cost: 5.00
-                  </div>
+                  
                   <img src="/images/icon/icon_17.svg" alt="hada17" />
                 </div>
               </div>

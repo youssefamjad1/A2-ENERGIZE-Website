@@ -21,7 +21,7 @@ const Contact = () => {
 
       {/* 
         =============================================
-        Feature Section Fifty One
+        Feature Section 
         ============================================== 
         */}
       <div className="fancy-feature-fiftyOne position-relative mt-250 lg-mt-150">
